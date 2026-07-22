@@ -3,7 +3,7 @@ A Desktop wind tunnel project to simulate airflow in the size of about a big cat
 
 
 
-# 23 of July 2026
+# 22 of July 2026
 Today i am going to do the research necessary for this project, and try to learn as much as i can so that i know how these things really work. After i have a faint idea of how it will be im going to start making a drawing and researching parts, boards, circuits and etc of what i need.
 
 ## Wind Tunnel Requirements:
@@ -15,6 +15,13 @@ Enclosed space, An enclosed space is needed since we want to accurately simulate
 Wind draft, a wind draft is required since we want to simulate the aerodynamics of for example a wing in the air at certain speeds. This can be achieved by either "pushing" or "puling" air through the enclosed space, this can be achieved by simply installing a fan with a sufficient rpm to either pull or push the air but pulling is considered superior since it greatly simplifies the process of building the wind tunnel.
 
 A Smoke generator, to try and visualize how the wind contorts and deforms when interactting with a foreign object we want to be able to visualize it, this can be achieved using smoke. The easiest way to get a smoke generator is to use a cheap E-ciggarete, although it may be harmful.
+
+A Circuit, I need to create and programm a simple circuit that when turned on you get to measure a certain speed, and after you have landed on your own specified speed you can press a button which will cause the fan to start spinning at the desired rpm to create a wind that has the desired wind speed.
+
+A stand, someplace where you can connect what you want to test the aerodynamics of.
+
+### Tomorrow
+Today i have made the simple requirements of what should be in the Wind tunnel, tommorow i am gonna try and reasearch and find the necessary materials needed and what i need to do aswell as expanding the requirements and trying to figure out how i can put all of this togheter.
 
 
 
