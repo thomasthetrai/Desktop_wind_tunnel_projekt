@@ -18,7 +18,7 @@ An enclosed space is needed since we want to accurately simulate the conditions 
 A wind draft is required since we want to simulate the aerodynamics of for example a wing in the air at certain speeds. This can be achieved by either "pushing" or "puling" air through the enclosed space, this can be achieved by simply installing a fan with a sufficient rpm to either pull or push the air but pulling is considered superior since it greatly simplifies the process of building the wind tunnel.
 
 #### Smoke generator
-A smoke generator is needed to try and visualize how the wind contorts and deforms when interactting with a foreign object we want to be able to visualize it, this can be achieved using smoke. The easiest way to get a smoke generator is to use a cheap E-ciggarete, although it may be harmful.
+A smoke generator is needed to try and visualize how the wind contorts and deforms when interacting with a foreign object we want to be able to visualize it, this can be achieved using smoke. The easiest way to get a smoke generator is to use a cheap E-ciggarete, although it may be harmful.
 
 #### A Circuit
 I need to create and programm a simple circuit that when turned on you get to measure a certain speed, and after you have landed on your own specified speed you can press a button which will cause the fan to start spinning at the desired rpm to create a wind that has the desired wind speed.
@@ -27,8 +27,19 @@ I need to create and programm a simple circuit that when turned on you get to me
 someplace where you can connect what you want to test the aerodynamics of.
 
 ### Tomorrow
-Today i have made the simple requirements of what should be in the Wind tunnel, tommorow i am gonna try and reasearch and find the necessary materials needed and what i need to do aswell as expanding the requirements and trying to figure out how i can put all of this togheter.
+Today i have made the simple requirements of what should be in the Wind tunnel, tommorow i am gonna try and research and find the necessary materials needed and what i need to do aswell as expanding the requirements and trying to figure out how i can put all of this togheter.
 
+# 28 of July 2026
+
+## Parts:
+
+#### Hexagonal pattern/ "Honeycomb" Pattern mesh for air flow
+To get the stable air flow we can simply 3d print out a fine "Honeycomb" pattern plate so that we can fit it onto the opening of the tunnel
+
+#### Wood and/or plywood for the enclosed space
+Pretty self explanatory, we just need some type of material to close the space, and we can also use a piece of clear hard plastic for the "window"
+
+#### Wind draft, A powerfull brushless dc motor
 
 
 
