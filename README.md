@@ -39,7 +39,9 @@ To get the stable air flow we can simply 3d print out a fine "Honeycomb" pattern
 #### Wood and/or plywood for the enclosed space
 Pretty self explanatory, we just need some type of material to close the space, and we can also use a piece of clear hard plastic for the "window"
 
-#### Wind draft, A powerfull brushless dc motor
+#### Wind draft, A powerful brushless dc motor
+To create the necessary wind draft we need a strong and capable brushless dc motor, the model, size and kv aswell as dimensions will be decided once we decide the dimensions of the wind tunnel itself.
+
 
 
 
